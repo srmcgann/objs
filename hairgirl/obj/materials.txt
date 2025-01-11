@@ -11,4 +11,3 @@ hair 2:       mat 7
 
 eyelids:      mat 8 (earsTexture.png)
 ears:         mat 8 (earsTexture.png)
-
