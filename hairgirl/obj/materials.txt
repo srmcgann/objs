@@ -1,0 +1,13 @@
+eyeballs:     mat 1 (eye.png)
+
+eyebrows:     mat 3
+mouth:        mat 3
+
+hair 1:       mat 4
+
+face, neck:   mat 5 (faceTexture.png)
+
+hair 2:       mat 7 
+
+eylids:       mat 8 (earsTexture.png)
+ears:         mat 8 (earsTexture.png)
